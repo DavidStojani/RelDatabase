@@ -1,9 +1,10 @@
-Wilkommen in Ihrem Repository für die praktische Aufgabe der relationalen Datenbanken.
-Bitte pushen Sie den Fortschritt in Ihrem Projekt regelmäßig und denken Sie daran am Abend vor dem Meeting den aktuellsten Stand Ihres Projekts ins Repository zu pushen.
-Bei Problemen mit GIT hilft das Tutorial im eCampus Kurs.
+#WORKING
 
-TODOList :
+University project to practice with relational database, login, javafx
 
-    1) Logout impl.
-    2) Test abfragen für beide dbms
-    
+MAVEN 
+FXML files 
+PG database 
+Oracle database 
+Loggin implemented for the two databases
+
