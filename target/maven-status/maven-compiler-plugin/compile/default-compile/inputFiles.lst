@@ -1,0 +1,12 @@
+/home/david/IdeaProjects/RelDat/src/main/presentation/controller/PgLogin.java
+/home/david/IdeaProjects/RelDat/src/main/application/App.java
+/home/david/IdeaProjects/RelDat/src/main/presentation/controller/OracleLogin.java
+/home/david/IdeaProjects/RelDat/src/main/data/daoImpl/PgDBConnectionDAOImpl.java
+/home/david/IdeaProjects/RelDat/src/main/bdo/User.java
+/home/david/IdeaProjects/RelDat/src/main/data/daoImpl/DBConfig.java
+/home/david/IdeaProjects/RelDat/src/main/bdo/OracleUser.java
+/home/david/IdeaProjects/RelDat/src/main/bdo/PgUser.java
+/home/david/IdeaProjects/RelDat/src/main/application/service/LoginService.java
+/home/david/IdeaProjects/RelDat/src/main/data/daoImpl/OracleDBConnectionDAOImpl.java
+/home/david/IdeaProjects/RelDat/src/main/data/daoImpl/DBConnectionHandler.java
+/home/david/IdeaProjects/RelDat/src/main/data/dao/DBConnectionDAO.java
